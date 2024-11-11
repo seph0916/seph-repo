@@ -1,1 +1,1 @@
-# 혼공머신 실습한 내용을 저장해 두는 공간
+# A space containing practical exercises from the book Solo Machine Learning
